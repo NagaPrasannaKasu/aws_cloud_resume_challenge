@@ -1,4 +1,4 @@
-name: Upload my-aws-cloud-resume-challenge to S3
+name: Upload frontend-cloud-resume-challenge to S3
 
 on:
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_REGION: 'us-east-1'
-        SOURCE_DIR: 'my-aws-cloud-resume-challenge'
+        SOURCE_DIR: 'frontend-cloud-resume-challenge'
 
   invalidate-cloudfront-distribution:
     runs-on: ubuntu-latest
