@@ -1,5 +1,5 @@
 import json
-import boto3
+import boto3 # type: ignore
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('Visitors_Table')
 def lambda_handler(event, context):
