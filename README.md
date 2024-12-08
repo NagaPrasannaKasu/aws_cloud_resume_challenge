@@ -29,5 +29,4 @@ The challenge consists of:
 
 ## [Resume Live Demo 🔗](https://www.nagaprasannakasu.com/)
 
-## Blog
-- 
+## [Blog 📝](https://www.linkedin.com/pulse/documenting-my-aws-cloud-resume-challenge-journey-naga-prasanna-kasu-tl0fc)
