@@ -1,6 +1,10 @@
 # My AWS Cloud Resume Challenge
+
+[What is Cloud Resume Challenge?](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+
+
 ## About The Project
-Here is my journey at cloud resume challenge in AWS. This challenge provided a structured approach to building a full-stack application that serves as both a resume and a demonstration of cloud skills. [What is Cloud Resume Challenge?](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+Here is my journey at cloud resume challenge in AWS. This challenge provided a structured approach to building a full-stack application that serves as both a resume and a demonstration of cloud skills. 
 
 The challenge consists of:
 - Certification: I have Completed AWS Cloud Practitioner certification as a starting point.
@@ -11,7 +15,7 @@ The challenge consists of:
 
 ## Architecture
 
-![Architecture Diagram](/img/aws-resume-challenge-architecture.jpeg)
+![Architecture Diagram](/img/aws-resume-challenge-architecture.jpg)
 
 
 ### AWS Services Used:
