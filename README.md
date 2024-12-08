@@ -8,7 +8,7 @@ Here is my journey at cloud resume challenge in AWS. This challenge provided a s
 
 The challenge consists of:
 - Certification: I have Completed AWS Cloud Practitioner certification as a starting point.
-- Frontend Development: Created a static website using HTML and CSS to showcase your resume.
+- Frontend Development: Created a static website using HTML and CSS to showcase my resume.
 - Cloud Deployment: Hosted the resume on Amazon S3 and implemented HTTPS using Amazon CloudFront.
 - Backend Development: Implemented a visitor counter using JavaScript, DynamoDB, AWS Lambda, and API Gateway.
 - DevOps Practices: Utilized Infrastructure as Code (IaC) tool Terraform and implemented source control with GitHub, and set up CI/CD pipelines.
