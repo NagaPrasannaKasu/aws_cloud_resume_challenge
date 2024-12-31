@@ -228,7 +228,7 @@ h3 {
 
 header {
     background-color:  #4c4c4c;
-    font-size: 14px;
+    font-size: 18px;
     text-transform: uppercase;
 }
 
@@ -303,7 +303,7 @@ header {
 }
 
 .viewers-count-tag {
-    color: #090c0c;
+    color: #b2c9c9;
     font-weight: 600;
 }
 
